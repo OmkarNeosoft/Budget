@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "fName": "ABC",
+      "lName": "bxv",
+      "uName": "omkar",
+      "Email": "omkar@gmail.com",
+      "Pass": "Omkar@1234",
+      "id": 6
+    },
+    {
+      "fName": "omkar",
+      "lName": "abc",
+      "uName": "omkar",
+      "Email": "omkar@gmail.com",
+      "Pass": "Omkar@123",
+      "id": 7
+    }
+  ]
+}

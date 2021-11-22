@@ -1,0 +1,37 @@
+{
+  "Form": [
+    {
+      "id": 1,
+      "First": "wd",
+      "Last": "23",
+      "username": "wd",
+      "email": "male",
+      "password": "2000",
+      "cpassword": "2000"
+    },
+    {
+      "fname": "wdw",
+      "lname": "qqee",
+      "username": "awrrw",
+      "email": "abc@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "fname": "wdhwd",
+      "lname": "qyyw",
+      "username": "uwyjk",
+      "email": "a@gmail.com",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "fname": "abc",
+      "lname": "bca",
+      "username": "omkar7",
+      "email": "abcxyz@gmail.com",
+      "password": "12345",
+      "id": 4
+    }
+  ]
+}
